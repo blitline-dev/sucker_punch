@@ -28,7 +28,7 @@ etc.).
 
 Add this line to your application's Gemfile:
 
-    gem 'sucker_punch', '~> 2.0'
+    gem 'sucker_punch', '~> 2.1'
 
 And then execute:
 
